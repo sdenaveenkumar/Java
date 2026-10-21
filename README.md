@@ -4,7 +4,7 @@ A comprehensive tracking repository for Core and Advanced Java concepts, Object-
 
 ---
 
-![Progress](https://img.shields.io/badge/Progress-8%25-brightgreen)
+![Progress](https://img.shields.io/badge/Progress-12%25-brightgreen)
 
 ---
 
@@ -72,7 +72,7 @@ Java/
 | ⚪ | **04. Methods** | `src/methods/` | Parameter passing, recursion, variable arguments (`varargs`) |
 | 🟢 | **05. OOP Basics** | `src/oops/` | Classes, objects, constructors, data hiding, this reference |
 | 🟢 | **06. Inheritance** | `src/inheritance/` | Single & multilevel inheritance, `super`, method overriding |
-| 🟡 | **07. Abstract Classes** | `src/abstract_classes/` | Abstract methods, concrete subclasses, base contracts |
+| 🟢 | **07. Abstract Classes** | `src/abstract_classes/` | Abstract methods, concrete subclasses, base contracts |
 | 🟡 | **08. Interfaces** | `src/interfaces/` | Multiple inheritance, default methods, static interface methods |
 | ⚪ | **09. Inner Classes** | `src/inner_classes/` | Member inner, local inner, anonymous, and static nested classes |
 | ⚪ | **10. Static & Final** | `src/static_final/` | Static blocks, singleton pattern, final variables & classes |
@@ -114,4 +114,5 @@ quick takeaways or bugs encountered while coding:
 
 - **2026-10-12**: Completed `src/oops/` — Notes: Explored class structure, constructor overloading, and access controls.
 - **2026-10-13**: Completed `src/inheritance/` — Notes: Covered `super()` calls, overriding vs hiding, and inheritance hierarchies.
-  
+- **2026-10-21**: Completed `src/abstract_class/` — Notes: An abstract class cannot be instantiated and must contain at least one abstract method, which defines a contract that subclasses must implement.
+  It provides a means to define standards and share code while ensuring that subclasses adhere to those standards, promoting code organization and reusability.
